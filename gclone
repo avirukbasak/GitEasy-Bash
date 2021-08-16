@@ -3,8 +3,6 @@ cd ~/GitHub
 url=$(cat ~/.gitauto)
 git clone "$url/$1"
 cd ~/GitHub/"$1"
-
-repo=$(basename "$PWD")
 out=$(git init)
 echo "${out:0:37}"
 git config pull.rebase false
