@@ -23,7 +23,6 @@ A package of short bash scripts to automate git synchronisation.
 - Copy the public key from the file and add it to you account.
 - Clone `your` repository.
 - Change to that directory.
-- Run `ginit`.
 - Once pulled and ready you can make changes.
 - Once your work is done, use `git push`.
 - Set up upstreap if asked.
