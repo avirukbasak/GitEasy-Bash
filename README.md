@@ -1,4 +1,4 @@
-# GitAuto-Bash
+# GitEasy-Bash
 A package of short bash scripts to automate git synchronisation.
 
 ## How to install?
